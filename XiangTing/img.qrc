@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Icon/About.ico</file>
+    <file>Icon/backward.png</file>
+    <file>Icon/bluetooth.png</file>
+    <file>Icon/Break.ico</file>
+    <file>Icon/Check.ico</file>
+    <file>Icon/clear.png</file>
+    <file>Icon/Close.ico</file>
+    <file>Icon/Copy.ico</file>
+    <file>Icon/crop.png</file>
+    <file>Icon/Cut.ico</file>
+    <file>Icon/delete.png</file>
+    <file>Icon/filter.png</file>
+    <file>Icon/forward.png</file>
+    <file>Icon/grayChange.png</file>
+    <file>Icon/hand.png</file>
+    <file>Icon/imageReverse.png</file>
+    <file>Icon/insert.jfif</file>
+    <file>Icon/KDD.ico</file>
+    <file>Icon/KDD.PNG</file>
+    <file>Icon/log.png</file>
+    <file>Icon/mlc.png</file>
+    <file>Icon/modify.png</file>
+    <file>Icon/New.ico</file>
+    <file>Icon/Open.ico</file>
+    <file>Icon/Paste.ico</file>
+    <file>Icon/plot.png</file>
+    <file>Icon/register.jfif</file>
+    <file>Icon/rk.ico</file>
+    <file>Icon/rotate.png</file>
+    <file>Icon/ruler.png</file>
+    <file>Icon/Save.ico</file>
+    <file>Icon/server.jpg</file>
+    <file>Icon/solve.png</file>
+    <file>Icon/specturm.jpg</file>
+    <file>Icon/Speed.png</file>
+    <file>Icon/Start.ico</file>
+    <file>Icon/Stop.jpg</file>
+    <file>Icon/校准.jpg</file>
+  </qresource>
+</RCC>
